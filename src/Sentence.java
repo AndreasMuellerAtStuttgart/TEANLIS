@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 /**
  * This class represents a sentence. The fields containing_paragraph and

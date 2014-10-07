@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 /**
  * This class represents a keyword. A keyword is represented by a string and a score

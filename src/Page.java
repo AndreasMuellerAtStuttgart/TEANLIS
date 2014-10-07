@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 /**
  * This class represents a page. The field number contains the number assigned

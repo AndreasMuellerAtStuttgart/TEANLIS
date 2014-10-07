@@ -1,0 +1,7 @@
+To install the framework, just download the classes and integrate them, for example, in an eclipse-project as the source of the project. To make use of all of the classes in the framework, you need to include the following jar-libraries in your, for example, eclipse Build Path (or the equivalent in the development environment of your choice):
+
+1. From GATE Developer, all libraries in the lib-folder where you installed GATE
+2. From GATE Developer, all libraries in the bin-folder where you installed GATE
+3. opennlp-maxent-3.0.3.jar from the OpenNLP tools
+4. opennlp-tools-1.5.3.jar from the OpenNLP tools
+5. anna-3.6.1.jar from the mate tools

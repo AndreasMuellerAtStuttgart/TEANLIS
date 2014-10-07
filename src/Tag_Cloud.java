@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 import java.util.HashMap;
 import java.util.ArrayList;

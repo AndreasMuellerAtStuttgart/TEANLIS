@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

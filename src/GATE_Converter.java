@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 /**
  * This class contains the methods to convert documents in internal format to

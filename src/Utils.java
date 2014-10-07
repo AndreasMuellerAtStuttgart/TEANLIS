@@ -1,4 +1,4 @@
-package epoetics.core;
+package teanlis;
 
 /**
  * This is a class containing utility functions.
