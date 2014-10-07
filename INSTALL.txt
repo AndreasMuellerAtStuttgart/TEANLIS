@@ -5,3 +5,11 @@ To install the framework, just download the classes and integrate them, for exam
 3. opennlp-maxent-3.0.3.jar from the OpenNLP tools
 4. opennlp-tools-1.5.3.jar from the OpenNLP tools
 5. anna-3.6.1.jar from the mate tools
+6. weka.jar from weka
+
+You can get those libraries from:
+
+1. GATE from https://gate.ac.uk/download/ or just google GATE download
+2. OpenNLP tools from https://opennlp.apache.org/cgi-bin/download.cgi or google Apache OpenNLP
+3. anna-3.6.1.jar from https://code.google.com/p/mate-tools/downloads/list or google mate tools
+4. weka.jar from http://www.cs.waikato.ac.nz/ml/weka/downloading.html or google weka machine learning. Get version 3.7.10 if possible
